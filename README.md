@@ -1,3 +1,3 @@
 # repositorioDeEstudo
 
-Texto auterado no repositorio local
+Texto alterado e corrigido no repositorio local
